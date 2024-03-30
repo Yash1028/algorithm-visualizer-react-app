@@ -1,18 +1,7 @@
 # Sorting Visualizer
 
-[![CodeFactor](https://www.codefactor.io/repository/github/anandman03/algorithm-visualizer-react-app/badge)](https://www.codefactor.io/repository/github/anandman03/algorithm-visualizer-react-app)
-[![DeepScan grade](https://deepscan.io/api/teams/10851/projects/15151/branches/299087/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10851&pid=15151&bid=299087)
+This is a progressive web app built using React.js to visualize sorting algorithms such as bubble, insertion, selection, merge, quick, heap and twist sort. This app is deployed with GitHub pages and can be accessed here: I hope you have fun playing around with it.
 
-This is a progressive web app built using React.js to visualize sorting algorithms such as bubble, insertion, selection, merge, quick, heap and twist sort. This app is deployed with GitHub pages and can be accessed here: [Link](https://anandman03.github.io/algorithm-visualizer-react-app/). I hope you have fun playing around with it.
-
-## Installation and Setup Instructions
-
-Installation:
-```
-$ git clone https://github.com/anandman03/algorithm-visualizer-react-app.git
-$ cd algorithm-visualizer-react-app
-$ npm install
-```
 To start server:
 ```
 $ npm start
@@ -22,13 +11,6 @@ To Visit App in any browser:
 http://localhost:3000/
 ```
 
-## Purpose
-
-I wanted to improve my skills with React.js, JavaScript, CSS and also learn sorting algorithms.This project turned out to be a great way to achieve both of the aforementioned objectives at the same time. I also implemented a sorting algorithm of my own named `Twist Sort`.
-
-## Component Structure
-
-![component](https://github.com/anandman03/algorithm-visualizer-react-app/blob/main/public/component.PNG)
 
 ## Meet the Algorithms
 
@@ -46,14 +28,3 @@ I wanted to improve my skills with React.js, JavaScript, CSS and also learn sort
 
 7. `Heap sort` is a comparison based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for the remaining elements. With worst-case time complexity being Ο(n log(n)), it is one of the most respected algorithms.
 
-## Design
-
-![home](https://github.com/anandman03/algorithm-visualizer-react-app/blob/main/public/home.PNG)
-
-## Lisence
-
-[MIT](LICENSE)
-
-## Contributor
-
-[Mansimar_Anand](https://anandman03.github.io/Mansimar-Anand/)
